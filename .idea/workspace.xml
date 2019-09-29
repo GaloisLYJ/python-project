@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a921baac-67d9-4abe-a19e-c7e93c1af025" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/auto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jiafuhou.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiafuhou.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.auto">
+  <component name="RunManager" selected="Python.jiafuhou">
     <configuration name="auto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_jiafuhou" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,8 +185,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.auto" />
         <item itemvalue="Python.jiafuhou" />
+        <item itemvalue="Python.auto" />
         <item itemvalue="Python.redaiyulin" />
         <item itemvalue="Python.jiafuhou_test" />
         <item itemvalue="Python.jiafuhou_task" />
